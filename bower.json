@@ -1,0 +1,17 @@
+{
+  "name": "mtexam",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JulsR/mtexam",
+  "authors": [
+    "jul <jul>"
+  ],
+  "description": "bower",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
