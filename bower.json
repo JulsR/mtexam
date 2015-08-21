@@ -13,5 +13,12 @@
     "bower_components",
     "test",
     "tests"
+  ],
+  "main": "commands, txt",
+  "keywords": [
+    "bootstrap",
+    "commands",
+    "txt",
+    "hotfix"
   ]
 }
